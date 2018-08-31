@@ -18,8 +18,8 @@
 # # AppIcon file name in Assets
 APPICON_NAME="AppIcon"
 #
-# # Target的序号
-# # Index of the target
+# # Target的序号，第一个target就写0，第二个就写1。
+# # Index of the target, the first target is going to be 0, the second one is going to be 1.
 TARGET_INDEX=0
 #
 # # 编译环境名称
