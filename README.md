@@ -31,7 +31,9 @@ And you can also automatic management build number, such as `1` increase to `2`,
 
 2. Add a `New Run Script Phase` in your project and write the `LLIconVersion.sh`'s path. If you put `LLIconVersion.sh` in root path, you can write `$SRCROOT/LLIconVersion.sh` in run script. If you put `LLIconVersion.sh` in a folder in root path , you need write `$SRCROOT/your folder name/LLIconVersion.sh` in run script.
 
-[![Add run script](https://raw.githubusercontent.com/HDB-Li/HDBImageRepository/master/LLIconVersioning/Add-Run-Script.jpg)](https://raw.githubusercontent.com/HDB-Li/HDBImageRepository/master/LLIconVersioning/Add-Run-Script.jpg)
+<div align="left">
+<img src="https://raw.githubusercontent.com/HDB-Li/HDBImageRepository/master/LLIconVersioning/Add-Run-Script.jpg" width="50%"></img>
+</div>
 
 3. Copy `LLIconVersion.sh` to your target path.
 
@@ -41,7 +43,9 @@ And you can also automatic management build number, such as `1` increase to `2`,
 
 6. If the color or the font size or whatever is not what you want, modify the parameter configuration in script.
 
-[![Custom Parameter](https://raw.githubusercontent.com/HDB-Li/HDBImageRepository/master/LLIconVersioning/Custom-Parameter.jpg)](https://raw.githubusercontent.com/HDB-Li/HDBImageRepository/master/LLIconVersioning/Custom-Parameter.jpg)
+<div align="left">
+<img src="https://raw.githubusercontent.com/HDB-Li/HDBImageRepository/master/LLIconVersioning/Custom-Parameter.jpg" width="50%"></img>
+</div>
 
 ## Q&A
 
