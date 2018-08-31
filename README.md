@@ -35,7 +35,7 @@ And you can also automatic management build number, such as `1` increase to `2`,
 
 3. Copy `LLIconVersion.sh` to your target path.
 
-4. Call `Build`(shortcuts : `command + B` ) before you want to archive or install the app to the tester. See Q&A for reason.
+4. Call `Build`(shortcuts : `command + B` ) before you want to archive or install the app to the tester. See [Q&A](https://github.com/HDB-Li/LLIconVersioning/blob/master/README.md#q3--why-need-call-build-before-using) for reason.
 
 5. Run your project and see what happend.
 
